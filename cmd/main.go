@@ -7,9 +7,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ptechen/world/internal/di"
 	"github.com/go-kratos/kratos/pkg/conf/paladin"
 	"github.com/go-kratos/kratos/pkg/log"
+	"github.com/ptechen/world/internal/di"
 )
 
 func main() {
